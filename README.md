@@ -25,4 +25,4 @@ for (i : this->nums)
     std::cout << this->characters[i]; 
 }
 ```
-This program in total, is around 80 lines.
+This program in total, is around 100 lines.
